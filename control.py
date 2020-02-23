@@ -1,4 +1,7 @@
 import time
+import os
+
+os.kill()
 
 i = 0
 for j in i:
